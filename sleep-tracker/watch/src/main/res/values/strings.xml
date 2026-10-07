@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Tracker</string>
+
+    <string name="bed">Bed</string>
+    <string name="awake">Awake</string>
+    <string name="energy">Energy</string>
+    <string name="energy_question">Energy?</string>
+
+    <string name="logged_bedtime">Bedtime</string>
+    <string name="logged_wakeup">Awake</string>
+    <string name="logged_energy">Energy %1$d/5</string>
+    <string name="saved_on_phone">Saved on phone</string>
+    <string name="will_sync">Saved. Syncs when phone is near.</string>
+    <string name="save_failed">Couldn\'t save</string>
+    <string name="try_again">Tap and try again</string>
+</resources>

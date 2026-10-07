@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Tracker</string>
+
+    <!-- Main buttons -->
+    <string name="going_to_bed">Going to Bed</string>
+    <string name="im_awake">I\'m Awake</string>
+    <string name="rate_energy">Rate Energy</string>
+    <string name="last_logged">Last: %1$s</string>
+    <string name="today_energy">Today: %1$d/5</string>
+    <string name="not_rated_today">Not rated today</string>
+
+    <!-- Log list -->
+    <string name="history">History</string>
+    <string name="empty_history">No entries yet. Tap a button above to log your first one.</string>
+    <string name="type_bedtime">Bedtime</string>
+    <string name="type_wakeup">Wake-up</string>
+    <string name="type_energy">Energy</string>
+    <string name="energy_value">%1$d/5</string>
+
+    <!-- Confirmations -->
+    <string name="logged_bedtime">Bedtime logged at %1$s</string>
+    <string name="logged_wakeup">Wake-up logged at %1$s</string>
+    <string name="energy_saved">Energy %1$d/5 saved for today</string>
+    <string name="energy_replaced">Today\'s energy updated to %1$d/5</string>
+    <string name="entry_updated">Entry updated</string>
+    <string name="entry_updated_replaced">Entry updated. It replaced the other energy rating on that day.</string>
+    <string name="entry_deleted">Entry deleted</string>
+
+    <!-- Energy picker -->
+    <string name="energy_question">How\'s your energy?</string>
+    <string name="energy_low">Low</string>
+    <string name="energy_high">High</string>
+    <string name="energy_overwrite_note">Today is already rated %1$d/5. A new rating replaces it.</string>
+
+    <!-- Edit dialog -->
+    <string name="edit_title">Edit %1$s</string>
+    <string name="edit_time">Time</string>
+    <string name="edit_date">Date</string>
+    <string name="edit_rating">Rating</string>
+    <string name="select_time">Select time</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm_title">Delete this entry?</string>
+    <string name="delete_confirm_body">%1$s from %2$s will be removed. This can\'t be undone.</string>
+
+    <!-- Export -->
+    <string name="export_csv">Export CSV</string>
+    <string name="export_chooser_title">Export sleep data</string>
+    <string name="export_subject">Sleep Tracker export</string>
+    <string name="nothing_to_export">Nothing to export yet</string>
+    <string name="export_failed">Export failed: %1$s</string>
+
+    <!-- Common -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="done">Done</string>
+</resources>

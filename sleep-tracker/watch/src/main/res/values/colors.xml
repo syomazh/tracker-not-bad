@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the phone app. Compose colors live in ui/theme/Theme.kt. -->
+    <color name="night_background">#FF0E1320</color>
+    <color name="ic_launcher_background">#FF1A2142</color>
+</resources>
